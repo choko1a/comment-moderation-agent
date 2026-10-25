@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 评论审核智能体
 
 这是一个基于 **LangGraph** 和 **Streamlit** 构建的人工智能评论审核系统，支持人工参与审核：对于被识别为存在问题的评论，审核员可以在确认最终结果之前查看、修改或推翻人工智能的建议。
@@ -45,7 +44,7 @@
 获取项目源码；如果已经下载，可以跳过克隆步骤：
 
 ```bash
-git clone https://github.com/carlosMartinez93/comment-moderation-agent.git
+git clone https://github.com/choko1a/comment-moderation-agent.git
 cd comment-moderation-agent
 ```
 
@@ -129,4 +128,4 @@ comment-moderation-agent/
 本项目声明采用 MIT 许可证。
 =======
 # comment-moderation-agent
->>>>>>> 52f81459212931f0e7fa0dc537c60d38c5973a00
+
